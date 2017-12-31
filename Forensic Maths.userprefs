@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{76B48B83-80F8-457A-ACB1-D2DFAAAA0665}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Forensic Maths/Properties/Resources.resx">
+    <Files>
+      <File FileName="Forensic Maths/Form1.Designer.cs" Line="223" Column="7" />
+      <File FileName="Forensic Maths/About.Designer.cs" Line="79" Column="55" />
+      <File FileName="Forensic Maths/Properties/Resources.resx" Line="131" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Forensic_220Maths PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
